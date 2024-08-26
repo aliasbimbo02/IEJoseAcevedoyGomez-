@@ -1,0 +1,18 @@
+/***********************************************************
+Autor: Juan Pablo Tobon Gallego
+       Jimena Arango
+
+Fecha: 26/08/2024
+
+Descripcion: Codigo con cuenta regresiva del 99 al 1.
+***********************************************************/
+using System;
+class etructuras_repetitivas{
+    static void Main(){
+        for (int i = 99; i >=1; i--){
+            Console.WriteLine(i);
+        }
+    }    
+}
+
+
